@@ -1,0 +1,13 @@
+C:\Users\dtorr\source\repos\trabalhoColoracaoGrafo\trabalhoColoracaoGrafo\obj\Debug\trabalhoColoracaoGrafo.csprojAssemblyReference.cache
+C:\Users\dtorr\source\repos\trabalhoColoracaoGrafo\trabalhoColoracaoGrafo\bin\Debug\trabalhoColoracaoGrafo.exe.config
+C:\Users\dtorr\source\repos\trabalhoColoracaoGrafo\trabalhoColoracaoGrafo\bin\Debug\trabalhoColoracaoGrafo.exe
+C:\Users\dtorr\source\repos\trabalhoColoracaoGrafo\trabalhoColoracaoGrafo\bin\Debug\trabalhoColoracaoGrafo.pdb
+C:\Users\dtorr\source\repos\trabalhoColoracaoGrafo\trabalhoColoracaoGrafo\obj\Debug\trabalhoColoracaoGrafo.exe
+C:\Users\dtorr\source\repos\trabalhoColoracaoGrafo\trabalhoColoracaoGrafo\obj\Debug\trabalhoColoracaoGrafo.pdb
+C:\Users\Donuz\Desktop\Projetin\C#\Coloração Grafo\trabalhoColoracaoGrafo\trabalhoColoracaoGrafo\bin\Debug\trabalhoColoracaoGrafo.exe.config
+C:\Users\Donuz\Desktop\Projetin\C#\Coloração Grafo\trabalhoColoracaoGrafo\trabalhoColoracaoGrafo\bin\Debug\trabalhoColoracaoGrafo.exe
+C:\Users\Donuz\Desktop\Projetin\C#\Coloração Grafo\trabalhoColoracaoGrafo\trabalhoColoracaoGrafo\bin\Debug\trabalhoColoracaoGrafo.pdb
+C:\Users\Donuz\Desktop\Projetin\C#\Coloração Grafo\trabalhoColoracaoGrafo\trabalhoColoracaoGrafo\obj\Debug\trabalhoColoracaoGrafo.csprojAssemblyReference.cache
+C:\Users\Donuz\Desktop\Projetin\C#\Coloração Grafo\trabalhoColoracaoGrafo\trabalhoColoracaoGrafo\obj\Debug\trabalhoColoracaoGrafo.csproj.CoreCompileInputs.cache
+C:\Users\Donuz\Desktop\Projetin\C#\Coloração Grafo\trabalhoColoracaoGrafo\trabalhoColoracaoGrafo\obj\Debug\trabalhoColoracaoGrafo.exe
+C:\Users\Donuz\Desktop\Projetin\C#\Coloração Grafo\trabalhoColoracaoGrafo\trabalhoColoracaoGrafo\obj\Debug\trabalhoColoracaoGrafo.pdb
